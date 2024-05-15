@@ -1,3 +1,3 @@
-PROJECT TITLE : React props
+Project : React Props
 
-PROJECT AUTHOR : NYARKO PHILIP ABEL
+Author: John Olekwa
