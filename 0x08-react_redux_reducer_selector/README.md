@@ -1,4 +1,0 @@
-PROJECT TITLE -React Redux reducer+selector
-
-
-PROJECT AUTHOR - NYARKO PHILIP ABEL
